@@ -1,0 +1,4550 @@
+{
+  "providers": [
+    {
+      "id": "57d65bec870542339c237888",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals.",
+      "info": "Our support workers offer one to one support 5 days a week. We offer support to anyone who is homeless. We start by setting up a care of address, so people can register for benefits and a simple bank account. We address the most urgent needs i.e. emergency shelter, accommodation, healthcare rehab, safety, training and jobs, making referrals as needed to other support agencies and Manchester City Council. Our support workers aim to create a level of trust and rapport with with our friends, helping them to rebuild their lives. We also visit inmates nearing release at HMP Manchester. We help to find housing solutions, offer mediation and advocacy support. After release we help with all aspects of rehabilitation to reduce the chances of re-offending and homelessness. ",
+      "tags": [
+        "Anyone who is homeless"
+      ],
+      "location": {
+        "description": "Barnabus Support Office",
+        "streetLine1": "Support Office",
+        "streetLine2": "61 Bloom Street",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M1 3LY",
+        "latitude": 53.4769358511002,
+        "longitude": -2.23806468087968
+      },
+      "openingTimes": [
+        {
+          "startTime": "10:00",
+          "endTime": "13:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "13:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "13:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "13:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "13:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "barnabus",
+      "serviceProviderName": "Barnabus",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "General support"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "58ab17ba8b21a80d20d56fce",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/) for more information.",
+      "info": "Our support workers visit inmates nearing release at HMP Manchester. We help to find housing solutions, offer mediation and advocacy support. After release we help with all aspects of rehabilitation to reduce the chances of re-offending and homelessness.  ",
+      "tags": [
+        "ex-offenders"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "The Beacon",
+        "streetLine2": "45 Bloom Street",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M1 3LY",
+        "latitude": 53.4769358511002,
+        "longitude": -2.23806468087968
+      },
+      "openingTimes": [
+        {
+          "startTime": "10:30",
+          "endTime": "13:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "13:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "13:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "14:00",
+          "endTime": "16:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "13:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "13:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "barnabus",
+      "serviceProviderName": "Barnabus",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "ex-offender",
+          "name": "Ex-Offenders\u0027 support"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "58a31f6b0bc3da271c6a236e",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/) for more information.",
+      "info": "We don&#39;t have an upper age limit on any of our services, older people are welcome to access all sessions at our drop-in centre and can visit our support office. In addition we provide an over 40&rsquo;s social on a Wednesday afternoon 2-4 pm.",
+      "tags": [
+        "over 40"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "The Beacon",
+        "streetLine2": "45 Bloom Street",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M1 3LY",
+        "latitude": 53.4769358511002,
+        "longitude": -2.23806468087968
+      },
+      "openingTimes": [
+        {
+          "startTime": "10:30",
+          "endTime": "13:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "13:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "13:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "14:00",
+          "endTime": "16:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "13:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "13:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "barnabus",
+      "serviceProviderName": "Barnabus",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "older-people",
+          "name": "Support for older people"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65c00870542339c2378d4",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals.",
+      "info": "Advice and information for anyone with housing, debt, welfare benefit advice and support needs. Specialist advice for people who have a private landlord or are trying to find accommodation in the private rented sector. Legal advice for people with complex housing issues. Housing&ndash;related support to people returning to Manchester from prison. Specialist debt, welfare benefits and housing advice.",
+      "tags": [
+        "Anyone who is homeless",
+        "in housing need or with a housing related problem."
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "Ground Floor",
+        "streetLine2": "Victoria House ",
+        "streetLine3": "5 Samuel Ogden Street",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M1 7AX",
+        "latitude": 53.4754101650922,
+        "longitude": -2.23688094998269
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:30",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:30",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:30",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:30",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:30",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "shelter",
+      "serviceProviderName": "Shelter",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "General support"
+        },
+        {
+          "id": "housing",
+          "name": "Housing support"
+        },
+        {
+          "id": "benefits",
+          "name": "Benefit advice"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65c00870542339c2378d3",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals.",
+      "info": "Outreach, drop in and personalised one-to-one support. For details of locations and times, please contact a member of staff via e-mail or phone.",
+      "tags": [
+        "Men aged 18-30 who have experienced sex work",
+        "homelessness and offending"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "",
+        "postcode": "M1 1AF",
+        "latitude": 53.480551029547,
+        "longitude": -2.23715070763573
+      },
+      "openingTimes": [
+        {
+          "startTime": "17:00",
+          "endTime": "19:00",
+          "day": "Monday"
+        }
+      ],
+      "serviceProviderId": "the-men39s-room",
+      "serviceProviderName": "The Men&#39;s Room",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "General support"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bee870542339c237891",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals.",
+      "info": "We recognise the damage that is caused to individuals and to the community through crime. We exist to provide support to people leaving prison of all faiths and none. We provide mentoring support that involves befriending and help on a range of issues all of which is based on a professional working relationship.",
+      "tags": [
+        "People who have served a custodial sentence."
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "Methodist Central Buildings",
+        "streetLine2": "Oldham Street",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M1 1JQ",
+        "latitude": 53.4819104794289,
+        "longitude": -2.2360432100405
+      },
+      "openingTimes": [
+        {
+          "startTime": "10:00",
+          "endTime": "15:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "15:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "15:00",
+          "day": "Thursday"
+        }
+      ],
+      "serviceProviderId": "gm-community-chaplaincy",
+      "serviceProviderName": "Greater Manchester Community Chaplaincy",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "ex-offender",
+          "name": "Ex-Offenders\u0027 support"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bf5870542339c2378ae",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals.",
+      "info": "Confidential advice 24 hours a day. Call FREE 0161 116 123, or email jo@samaritans.org.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "74 Oxford Street",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M1 5NH",
+        "latitude": 53.4742063958118,
+        "longitude": -2.24103245938343
+      },
+      "openingTimes": [
+        {
+          "startTime": "00:00",
+          "endTime": "23:59",
+          "day": "Monday"
+        },
+        {
+          "startTime": "00:00",
+          "endTime": "23:59",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "00:00",
+          "endTime": "23:59",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "00:00",
+          "endTime": "23:59",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "00:00",
+          "endTime": "23:59",
+          "day": "Friday"
+        },
+        {
+          "startTime": "00:00",
+          "endTime": "23:59",
+          "day": "Saturday"
+        },
+        {
+          "startTime": "00:00",
+          "endTime": "23:59",
+          "day": "Sunday"
+        }
+      ],
+      "serviceProviderId": "samaritans",
+      "serviceProviderName": "Samaritans",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "General support"
+        }
+      ],
+      "isOpen247": true
+    },
+    {
+      "id": "57d65be8870542339c237872",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals.",
+      "info": "Centrepoint YPSF works with young people across Manchester to help them to live independently. This could be anything from help with emergency housing, to long-term support in your own home, to one-off courses to help you manage your money or look for work.",
+      "tags": [
+        "16-25"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "City Centre Project",
+        "streetLine2": "52 Oldham Street",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M4 1LE",
+        "latitude": 53.483397559647,
+        "longitude": -2.23401712221756
+      },
+      "openingTimes": [
+        {
+          "startTime": "10:00",
+          "endTime": "12:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "13:30",
+          "endTime": "16:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "12:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "13:30",
+          "endTime": "16:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "12:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "12:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "13:30",
+          "endTime": "16:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "12:00",
+          "day": "Friday"
+        },
+        {
+          "startTime": "13:30",
+          "endTime": "16:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "ypsf",
+      "serviceProviderName": "Young People\u0027s Support Foundation",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "younger-people",
+          "name": "Support for younger people"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "58ecc857faad661940094bb8",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/) for more information.",
+      "info": "Advice for young people with drug dependencies. Young people or professionals can come into the centre or call 0161 839 2054 to make an appointment.",
+      "tags": [
+        "Under 18s"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "103 Oldham Street",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M4 1LW",
+        "latitude": 53.4836392702347,
+        "longitude": -2.23451574266415
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:15",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:15",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:15",
+          "endTime": "20:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:15",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:15",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "lifeline",
+      "serviceProviderName": "Lifeline",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "dependency",
+          "name": "Dependency support"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bfa870542339c2378bf",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals.",
+      "info": "CARDS supports vulnerable and marginalised young people aged 16-25 in Manchester, particularly those who are homeless (or at risk of becoming so) and those at risk of being exploited (in any way) and those with offending behaviour. Contact us to make an appointment to try to get safe, stable accommodation, work towards positive mental well being and good physical health. We also help improve your financial situation and prospects for employment.",
+      "tags": [
+        "Young people from 16-25 who are homeless or at risk of becoming so."
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "1st floor",
+        "streetLine2": "27 Houldsworth Street",
+        "streetLine3": null,
+        "streetLine4": null,
+        "city": "Manchester",
+        "postcode": "M1 1EB",
+        "latitude": 53.4835909837923,
+        "longitude": -2.2316221630479
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:30",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:30",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:30",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:30",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:30",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "lifeshare",
+      "serviceProviderName": "Lifeshare",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "younger-people",
+          "name": "Support for younger people"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bf6870542339c2378b3",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals.",
+      "info": "We know that LGBT young people from some communities can find it especially hard to reach out to services for help even if they need it. AKT works with young people from all communities and backgrounds, including religious backgrounds, and with lots of different kinds of needs and life experiences. If you are LGBT and homeless, in crisis or at risk where you live, we can help.",
+      "tags": [
+        "lgbt",
+        "under 25"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "5 Oak Street",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M4 5JD",
+        "latitude": 53.4840950661472,
+        "longitude": -2.23584437681465
+      },
+      "openingTimes": [
+        {
+          "startTime": "10:00",
+          "endTime": "16:30",
+          "day": "Monday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:30",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:30",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:30",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:30",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "albert-kennedy-trust",
+      "serviceProviderName": "Albert Kennedy Trust",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "lgbt",
+          "name": "LGBT support"
+        },
+        {
+          "id": "housing",
+          "name": "Housing support"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bf1870542339c23789a",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals.",
+      "info": "The MASH Van is out on the streets of the City Centre and Cheetham Hill, twice a week, late at night offering: free condoms and lubricants; Sexual health advice; Needle exchange and paraphernalia; Harm reduction advice; A dodgy punter reporting service; Safety advice and information; Personal attack alarms; Assessments/care planning; Referrals into emergency accommodation & Refreshments. The van goes out on different nights each week to different locations between 19:00 and 22:00. ",
+      "tags": [
+        "Female sex workers."
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "94-96 Fairfield St  ",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M1 2WR",
+        "latitude": 53.475420606571,
+        "longitude": -2.22208576134738
+      },
+      "openingTimes": [
+        {
+          "startTime": "19:00",
+          "endTime": "22:00",
+          "day": "Monday"
+        }
+      ],
+      "serviceProviderId": "mash-manchester-action-on-street-health",
+      "serviceProviderName": "MASH; Manchester Action on Street Health ",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "sexwork",
+          "name": "Sex worker support"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "582619cad121fa194cf0f88e",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/) for more information.",
+      "info": "We run a street kitchen at Manchester cathedral offering a hot meal, tea and coffee, food bank , warm clothing, advice, and an ear to listen.",
+      "tags": [
+        "Homeless and anybody in need"
+      ],
+      "location": {
+        "description": "Manchester Cathedral&#10;",
+        "streetLine1": "Victoria St, ",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M3 1SX",
+        "latitude": 53.4846075604927,
+        "longitude": -2.24470820680058
+      },
+      "openingTimes": [
+        {
+          "startTime": "20:00",
+          "endTime": "23:00",
+          "day": "Thursday"
+        }
+      ],
+      "serviceProviderId": "spin",
+      "serviceProviderName": "SPIN",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "General support"
+        },
+        {
+          "id": "housing",
+          "name": "Housing support"
+        },
+        {
+          "id": "older-people",
+          "name": "Support for older people"
+        },
+        {
+          "id": "younger-people",
+          "name": "Support for younger people"
+        },
+        {
+          "id": "health",
+          "name": "Health service advice"
+        },
+        {
+          "id": "employment",
+          "name": "Employment advice"
+        },
+        {
+          "id": "benefits",
+          "name": "Benefit advice"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bf1870542339c23789c",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals.",
+      "info": "We now assist more than 150 households and employ around 20 staff through our support and befriending services. Central to our approach has been the delivery of services at a local level.  Primarily we provide floating support services, but we also have some supported accommodation in Cheshire.  Our expertise in delivering support has developed over the last few years and we now work with people who have a range of issues and come from diverse backgrounds.  For example, we work with: Elderly people who are showing early signs of dementia, Members of Manchester\u0027s black and minority ethnic community who have issues around mental health, Irish men in Manchester with issues around alcohol misuse and homelessness, Older people at risk of becoming socially isolated, Homeless families and young people at risk in Cheshire.",
+      "tags": [
+        "Anyone who is homeless",
+        "at risk of becoming so or is in need of support to live independently."
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "1 City Road",
+        "streetLine2": "City Road East",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M15 4PN",
+        "latitude": 53.4722233243208,
+        "longitude": -2.24816217051489
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "people-first-housing",
+      "serviceProviderName": "People First Housing Association",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "General support"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "593547889cad0b0c14bff58e",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/) for more information.",
+      "info": null,
+      "tags": [
+        "People living in unsupported temporary accommodation (B&amp;B&#39;s)"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "Brunswick Parish Church",
+        "streetLine2": "Brunswick Street",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M13 9TQ",
+        "latitude": 53.4693287275071,
+        "longitude": -2.22565428686088
+      },
+      "openingTimes": [
+        {
+          "startTime": "11:00",
+          "endTime": "13:30",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "11:00",
+          "endTime": "13:30",
+          "day": "Thursday"
+        }
+      ],
+      "serviceProviderId": "justlife",
+      "serviceProviderName": "Justlife",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "General support"
+        },
+        {
+          "id": "housing",
+          "name": "Housing support"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bec870542339c23788a",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals.",
+      "info": "The Boaz Trust offers shared accommodation for destitute asylum seekers and refugees in Greater Manchester. ",
+      "tags": [
+        "Refused destitute asylum seekers",
+        "and homeless refugees."
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "110 Oldham Road",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M4 6AG",
+        "latitude": 53.4865376497875,
+        "longitude": -2.22775007450613
+      },
+      "openingTimes": [
+        {
+          "startTime": "10:00",
+          "endTime": "16:30",
+          "day": "Monday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:30",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:30",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:30",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:30",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "boaz-trust",
+      "serviceProviderName": "BOAZ Trust",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "housing",
+          "name": "Housing support"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bf0870542339c237898",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals.",
+      "info": "Dependency support at the Urban Village Medical Centre.",
+      "tags": [
+        "Anyone who is homeless."
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "Old Mill Street",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M4 6EE",
+        "latitude": 53.4829128466428,
+        "longitude": -2.21945770466593
+      },
+      "openingTimes": [
+        {
+          "startTime": "13:00",
+          "endTime": "18:00",
+          "day": "Wednesday"
+        }
+      ],
+      "serviceProviderId": "community-alcohol-team",
+      "serviceProviderName": "Community Alcohol Team",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "dependency",
+          "name": "Dependency support"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65c01870542339c2378d6",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals.",
+      "info": "Citizens Advice Manchester offers free, confidential, impartial and independent advice and information, including housing support. We have an Information Hub based in the Town Hall. We also have an extensive outreach service with sessions across the city including at Cheetham Hill Advice Centre, along with our telephone advice and email advice services, which can be accessed through our website.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Information Hub",
+        "streetLine2": "Manchester Town Hall",
+        "streetLine3": "Albert Square",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M60 2LA",
+        "latitude": 53.4873656112133,
+        "longitude": -2.22721197039864
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:30",
+          "endTime": "14:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:30",
+          "endTime": "14:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:30",
+          "endTime": "14:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:30",
+          "endTime": "14:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:30",
+          "endTime": "14:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "citizens-advice-manchester",
+      "serviceProviderName": "Citizens Advice Manchester",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "housing",
+          "name": "Housing support"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "595268e1c238cb0e4cbc08c6",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/) for more information.",
+      "info": "What is Independent Mental Capacity Advocacy?&#10;&#10;The Mental Capacity Act 2005 is a law which empowers and protects people who may not be able to make some decisions for themselves because of illness or disability. This is known as lacking capacity. The Mental Capacity Act says that people who are aged over 16 and who lack capacity to make certain decisions should have an Independent Mental Capacity Advocate (IMCA) appointed to represent them and protect their interests.&#10;&#10;An IMCA is an advocate who is qualified to work within the framework of the Mental Capacity Act.&#10;&#10;When can I get an Independent Mental Capacity Advocate?&#10;&#10;An advocate will be appointed where a person lacks capacity and has no family or friends who can be consulted about the decision. An advocate can be appointed when the decision involves;&#10;&#10;Serious medical treatment&#10;Change of accommodation&#10;Adult Safeguarding Procedures (even when there are family/ friends involved)&#10;Care Reviews&#10;Deprivation of Liberty Safeguards &ndash; DoLS (See guide below).&#10;&#10;What will an Independent Mental Capacity Advocate do?&#10;&#10;An advocate will meet and support the person to find out about their wishes, feelings and values. They will represent the person at meetings and challenge decisions if they do not appear to be in the person&rsquo;s best interest. An advocate will check that the principles of the Mental Capacity Act are being followed and that alternative options are being considered for the person. The advocate will write a report for the decision maker which must be taken into account when the decision is being made.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Manchester Advocacy Hub  ",
+        "streetLine2": "Gaddum Centre",
+        "streetLine3": "6 Great Jackson Street ",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M15 4AX",
+        "latitude": 53.4722469932741,
+        "longitude": -2.25400765512293
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "manchester-advocacy-hub",
+      "serviceProviderName": "Manchester Advocacy Hub",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "legal",
+          "name": "Legal Advice"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57f6209ccbad0f3754c386b3",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals.",
+      "info": "We walk in pair&#39;s on Manchester&#39;s streets, offering homeless people the opportunity to be listened to, building relationships through trust and compassion, and sign posting to various organisations when appropriate. ",
+      "tags": [],
+      "location": {
+        "description": "Manchester city centre and surrounding localities such as Fallowfield and Withington ",
+        "streetLine1": "",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "",
+        "postcode": "M13 9PR",
+        "latitude": 53.464381490379,
+        "longitude": -2.23221034811775
+      },
+      "openingTimes": [
+        {
+          "startTime": "10:00",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "student-action-msu",
+      "serviceProviderName": "Student action MSU",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "General support"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bed870542339c23788d",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals.",
+      "info": "General advice and support for anyone who is homeless. We can refer you to most other support agencies in Manchester and Manchester City Council.",
+      "tags": [
+        "Homeless adults"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "Edward Holt House",
+        "streetLine2": "Pimblett Street",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M3 1FU",
+        "latitude": 53.4905686797488,
+        "longitude": -2.2438382465874
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "12:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "12:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "12:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "12:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "12:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "booth-centre",
+      "serviceProviderName": "Booth Centre",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "General support"
+        },
+        {
+          "id": "housing",
+          "name": "Housing support"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "5900b2fcfaad6528e42a6f95",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/) for more information.",
+      "info": "Our open access runs from 9am to 11:30am Monday to Friday, where anyone is free to attend and will be assessed, or call to make an appointment on 0161 214 0770. People can also drop in at any time and a referral will be taken and appointment booked as appropriate. &#10;&#10;We provide a full range of treatment and recovery interventions for people who require services for their drug or alcohol use - Assessment; &#10;Brief Interventions; Medically assisted recovery; Community detoxification; Referral for in-patient detoxification; Drop in groups&#10;Informal and structured group programmes; Health assessments; BBV testing; Hepatitis B vaccinations; Pod working; Facilitating access to mutual aid pods; One to one sessions with engagement and recovery workers; Access to recovery services on site. ",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "43A Carnarvon Street",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M3 1EZ",
+        "latitude": 53.4915406181816,
+        "longitude": -2.24325601327593
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "20:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "20:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "20:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "12:00",
+          "day": "Saturday"
+        }
+      ],
+      "serviceProviderId": "manchester-integrated-drug-and-alcohol-service",
+      "serviceProviderName": "Manchester Integrated Drug and Alcohol Service",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "dependency",
+          "name": "Dependency support"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bf3870542339c2378a9",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals.",
+      "info": "We provide a full range of clinical treatment interventions for people who require clinical services for their drug use. To make an appointment please contact RISE Manchester Intake Service (ADS) for a referral on 0161 834 2736.",
+      "tags": [
+        "Anyone who needs support with drug and alcohol dependency."
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "Zion Community Resource Centre, 339 Stretford Road",
+        "streetLine2": "Hulme",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M15 5ZA",
+        "latitude": 53.466533969103,
+        "longitude": -2.25228642372441
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "rise-manchester",
+      "serviceProviderName": "RISE Manchester",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "dependency",
+          "name": "Dependency support"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65c06870542339c2378e8",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals.",
+      "info": "We offer advice and treatment for drug and alcohol dependency. Please call 0161 226 5526 to make an appointment for an initial assessment.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Zion Centre",
+        "streetLine2": "339 Stretford Road",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M15 5ZA",
+        "latitude": 53.466533969103,
+        "longitude": -2.25228642372441
+      },
+      "openingTimes": [
+        {
+          "startTime": "10:00",
+          "endTime": "12:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "12:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "12:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "12:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "12:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "manchester-integrated-drug-and-alcohol-service",
+      "serviceProviderName": "Manchester Integrated Drug and Alcohol Service",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "dependency",
+          "name": "Dependency support"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "58971c206bad0f07589acc7f",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/) for more information.",
+      "info": "Outreach service providing advice and sign-posting to appropriate services. Call 07785374673 to find us. New volunteers always welcome.",
+      "tags": [],
+      "location": {
+        "description": "Meet at side of New Harvest Christian Fellowship",
+        "streetLine1": "New Harvest Christian Fellowship",
+        "streetLine2": "194 Chapel St",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Salford",
+        "postcode": "M3 6BY",
+        "latitude": 53.4834909700999,
+        "longitude": -2.2584751228588
+      },
+      "openingTimes": [
+        {
+          "startTime": "20:00",
+          "endTime": "22:30",
+          "day": "Saturday"
+        }
+      ],
+      "serviceProviderId": "open-door-greater-manchester",
+      "serviceProviderName": "Open Door Greater Manchester",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "General support"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65c01870542339c2378d7",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals.",
+      "info": "Our on-call advice and information service operates out of hours 24/7: call 061 276 6515",
+      "tags": [
+        "Men",
+        "women",
+        "children and young people"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "The Old St Mary&#39;s Hospital",
+        "streetLine2": "York Place",
+        "streetLine3": "Oxford Road",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M13 9WL",
+        "latitude": 53.462439650671,
+        "longitude": -2.22771130987518
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "st-mary39s-sexual-assault-referral-centre",
+      "serviceProviderName": "St Mary&#39;s Sexual Assault Referral Centre",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "health",
+          "name": "Health service advice"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "5848282cb421f51ef8aaf9fd",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/) for more information.",
+      "info": "HMP Manchester Prison Visitors Centre.&#10;The visitors centre offers the family and friends of prisoners at HMP Manchester prison advice, information and support.&#10;&#10;We understand prisons can be intimidating or scary places for visitors, especially children, and visiting a loved one can be difficult emotionally. Riverside Care and Support in partnership with the Ministry of Justice provide support to visitors, offering advice, information, refreshments and a supervised cr&egrave;che for children.&#10;You&rsquo;ll find:&#10;&#10;&ndash;          New visitors will receive one-to-one advice and support&#10;&#10;&ndash;          On-going advice and support on-hand&#10;&#10;&ndash;          Support and help if you have concerns for inmates&#10;&#10;&ndash;          Visitor/prison liaison, including with the prison chaplaincy and healthcare departments&#10;&#10;&ndash;          Assistance to reassure and calm you during any difficult or traumatic times&#10;&#10;&ndash;          A cr&egrave;che, with qualified staff during visiting hours and a play worker&#10;&#10;&ndash;          A T-Bar serving tea, coffee, sandwiches and refreshments&#10;&#10;How it works&#10;&#10;Based in the prison grounds, staff and volunteers meet visitors as they arrive offering specific support for first time visitors. The centre has a walk-in service, but visitors are asked to book prior to their visit. You&rsquo;ll be welcomed and reassured &ndash; with the security processes explained and what you can expect during your visit.&#10;&#10;Getting the most out of our service&#10;&bull;We&rsquo;re here to listen to any worries you may have and offer support, whether it&rsquo;s information about the prison, or if you want to raise concerns about a relative&#10;&bull;If we can&rsquo;t help, we can refer you to specialist external agencies, and advise on everything from mental health, bullying or coercion&#10;&bull;We can help with a range of services to assist health and well-being, harm reduction, and help build confidence&#10;",
+      "tags": [
+        "Visitors of HMP Manchester"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "Manchester Prison Visitors&rsquo; Centre",
+        "streetLine2": "HMP Manchester",
+        "streetLine3": "1 Southall Street",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M60 9AH",
+        "latitude": 53.4921918022234,
+        "longitude": -2.24568639854618
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Saturday"
+        },
+        {
+          "startTime": "12:00",
+          "endTime": "17:00",
+          "day": "Sunday"
+        }
+      ],
+      "serviceProviderId": "riverside",
+      "serviceProviderName": "Riverside - Manchester",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "ex-offender",
+          "name": "Ex-Offenders\u0027 support"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bf1870542339c237899",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals.",
+      "info": "We have one full time member of staff plus cook and volunteers. Some help provided with claiming benefits, developing life skills and referrals to other agencies.",
+      "tags": [
+        "Single homeless men over 40."
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "104 Denmark Road",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Moss Side",
+        "postcode": "M15 6JS",
+        "latitude": 53.4611199299643,
+        "longitude": -2.24065702809002
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:30",
+          "endTime": "16:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:30",
+          "endTime": "16:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:30",
+          "endTime": "16:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:30",
+          "endTime": "16:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:30",
+          "endTime": "16:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "morning-star-hostel",
+      "serviceProviderName": "Morning Star Hostel",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "General support"
+        },
+        {
+          "id": "dependency",
+          "name": "Dependency support"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bed870542339c23788e",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals.",
+      "info": "Our clients often face a range of issues which we aim to assist them to manage and overcome if they feel they would benefit from support. Often this involves linking our clients in with external agencies that have the expertise to support their specific needs.",
+      "tags": [
+        "Adults facing a wide range of social issues including homelessness."
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "104b Denmark Road",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M15 6JS",
+        "latitude": 53.4611199299643,
+        "longitude": -2.24065702809002
+      },
+      "openingTimes": [
+        {
+          "startTime": "10:30",
+          "endTime": "16:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "16:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "16:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "16:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "16:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "cornerstone-day-centre",
+      "serviceProviderName": "Cornerstone",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "housing",
+          "name": "Housing support"
+        },
+        {
+          "id": "health",
+          "name": "Health service advice"
+        },
+        {
+          "id": "employment",
+          "name": "Employment advice"
+        },
+        {
+          "id": "benefits",
+          "name": "Benefit advice"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "591ad29ccbad100320e32d1c",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/) for more information.",
+      "info": "GMLC provides support with Employment and Support Allowance (ESA), Personal Independence Payment (PIP) and Work Capability Assessments. This includes help completing forms, and helping with appeals.&#10;&#10;Our caseworkers can advise, assist and represent people who are appealing against negative ESA decisions where there is:&#10;&#10;* failure to attend a medical assessment&#10;* failed medical assessment&#10;* being put in the work-related activity group, and not the support group&#10;* sanctions&#10;* right to reside&#10;* overpayments&#10;&#10;Our services are currently by appointment only, either by self-referral of via another organisation. Please contact us on 0161 769 2244 or reception@gmlaw.org.uk.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Greater Manchester Law Centre",
+        "streetLine2": "159 Princess Rd",
+        "streetLine3": null,
+        "streetLine4": null,
+        "city": "Manchester ",
+        "postcode": "M14 4RE",
+        "latitude": 53.4546668717093,
+        "longitude": -2.2447466982507
+      },
+      "openingTimes": [
+        {
+          "startTime": "10:00",
+          "endTime": "15:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "15:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "15:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "15:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "15:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "greater-manchester-law-centre",
+      "serviceProviderName": "Greater Manchester Law Centre",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "health",
+          "name": "Health service advice"
+        },
+        {
+          "id": "employment",
+          "name": "Employment advice"
+        },
+        {
+          "id": "benefits",
+          "name": "Benefit advice"
+        },
+        {
+          "id": "ex-offender",
+          "name": "Ex-Offenders\u0027 support"
+        },
+        {
+          "id": "legal",
+          "name": "Legal Advice"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "58f9b24bfaad6528e429c40e",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/) for more information.",
+      "info": null,
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "159 Princess Road",
+        "streetLine2": "Moss Side",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M14 4RE",
+        "latitude": 53.4546668717093,
+        "longitude": -2.2447466982507
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:30",
+          "endTime": "12:30",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:30",
+          "endTime": "12:30",
+          "day": "Thursday"
+        }
+      ],
+      "serviceProviderId": "asylum-support-housing-advice-gmiau",
+      "serviceProviderName": "Asylum Support Housing Advice (GMIAU)",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "asylum",
+          "name": "Asylum seeker support"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "58496590b421f51a78bd88e7",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/) for more information.",
+      "info": "Supporting our veterans with advice on a wide range of issues from housing to employment.",
+      "tags": [
+        "Armed Forces Veterans"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "Walking With The Wounded",
+        "streetLine2": "42 Canada Street",
+        "streetLine3": null,
+        "streetLine4": null,
+        "city": "Manchester",
+        "postcode": "M40 8AE",
+        "latitude": 53.4950704717916,
+        "longitude": -2.2064217588725
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "walking-with-the-wounded",
+      "serviceProviderName": "Walking With The Wounded",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "General support"
+        },
+        {
+          "id": "dependency",
+          "name": "Dependency support"
+        },
+        {
+          "id": "housing",
+          "name": "Housing support"
+        },
+        {
+          "id": "health",
+          "name": "Health service advice"
+        },
+        {
+          "id": "employment",
+          "name": "Employment advice"
+        },
+        {
+          "id": "benefits",
+          "name": "Benefit advice"
+        },
+        {
+          "id": "veteran",
+          "name": "Veterans\u0027 support"
+        },
+        {
+          "id": "ex-offender",
+          "name": "Ex-Offenders\u0027 support"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bf3870542339c2378a5",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals.",
+      "info": "Accommodation and support for people who need short term support to regain their independence. For referrals please call 0161 721 4140, or to request an online form to send to Manchester.referrals@nacro.org.uk",
+      "tags": [
+        "18-64",
+        "homeless",
+        "single",
+        "offending risk and in need of support to address substance misuse."
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "308 Clayton Ln",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M11 2AG",
+        "latitude": 53.4772061944564,
+        "longitude": -2.18716963169063
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "nacro-housing-services",
+      "serviceProviderName": "Nacro Housing - Manchester",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "housing",
+          "name": "Housing support"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bf4870542339c2378ac",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals.",
+      "info": "Community Alcohol Team, Drugs Clinic & Needle Exchange. Smoking reduction/support.",
+      "tags": [
+        "Anyone over the age of 18"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "Windsor Drop-in Centre, Churchill Way",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Salford",
+        "postcode": "M6 5BU",
+        "latitude": 53.4860114524149,
+        "longitude": -2.28453178219705
+      },
+      "openingTimes": [
+        {
+          "startTime": "07:30",
+          "endTime": "14:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "07:30",
+          "endTime": "14:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "07:30",
+          "endTime": "14:00",
+          "day": "Thursday"
+        }
+      ],
+      "serviceProviderId": "salford-loaves-and-fishes",
+      "serviceProviderName": "Salford Loaves and Fishes",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "dependency",
+          "name": "Dependency support"
+        },
+        {
+          "id": "general",
+          "name": "General support"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "594bdb459cad0a25d04373e6",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/) for more information.",
+      "info": "FRANK provides the following services for people who seek information and/or advice about drugs:&#10;&#10;A website&#10;A confidential telephone number, available 24 hours a day&#10;Email&#10;A confidential live chat service, available from 2pm-6pm daily&#10;A service to locate counselling and treatment",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "",
+        "postcode": "M50 2GF",
+        "latitude": 53.47568808419,
+        "longitude": -2.29749523124006
+      },
+      "openingTimes": [
+        {
+          "startTime": "00:00",
+          "endTime": "23:59",
+          "day": "Monday"
+        },
+        {
+          "startTime": "00:00",
+          "endTime": "23:59",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "00:00",
+          "endTime": "23:59",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "00:00",
+          "endTime": "23:59",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "00:00",
+          "endTime": "23:59",
+          "day": "Friday"
+        },
+        {
+          "startTime": "00:00",
+          "endTime": "23:59",
+          "day": "Saturday"
+        },
+        {
+          "startTime": "00:00",
+          "endTime": "23:59",
+          "day": "Sunday"
+        }
+      ],
+      "serviceProviderId": "talk-to-frank",
+      "serviceProviderName": "Talk To Frank",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "health",
+          "name": "Health service advice"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57ed1a53cbad0f3754c331a2",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals.",
+      "info": null,
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Elliott&#39;s fruit and veg ",
+        "streetLine2": "Chorlton precinct ",
+        "streetLine3": "Wilbraham road ",
+        "streetLine4": "",
+        "city": "Chorlton ",
+        "postcode": "M21 9aq ",
+        "latitude": 53.4429440941598,
+        "longitude": -2.27838730740742
+      },
+      "openingTimes": [
+        {
+          "startTime": "07:30",
+          "endTime": "16:30",
+          "day": "Monday"
+        },
+        {
+          "startTime": "07:30",
+          "endTime": "16:30",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "07:30",
+          "endTime": "16:30",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "07:30",
+          "endTime": "16:30",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "07:30",
+          "endTime": "16:30",
+          "day": "Friday"
+        },
+        {
+          "startTime": "07:30",
+          "endTime": "16:30",
+          "day": "Saturday"
+        }
+      ],
+      "serviceProviderId": "reach-out-to-the-community",
+      "serviceProviderName": "Reach Out to the Community ",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "General support"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "5913f22ecbad100320e205dc",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/) for more information.",
+      "info": "Advice, support and referrals to other agencies We also offer 1 to 1 as well as working alongside other agencies with the aim of getting rough sleepers of the streets and those who are homeless into suitable accommodation while ensuring their long term needs are addressed and met.We are also happy to arrange/liaise with addiction/dependendency support where this is needed to support/ assist clients to remain their homes after a period of homelessness/RS.We offer a bond service where we would pay a bond/deposit to secure accommodation  for someone who is  homeless/rough sleeping or are about to be made homeless",
+      "tags": [
+        "over 25&#39;s"
+      ],
+      "location": {
+        "description": "Manchester City Centre and outlying suburbs  starting in Chorlton,Whalley Range,Didsbury,west Didsbury,Withington,Fallowfield&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;",
+        "streetLine1": "Buckthorn House",
+        "streetLine2": "2-4 Buckthorn Place ",
+        "streetLine3": "Chorlton",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M21 7UG",
+        "latitude": 53.4327637044518,
+        "longitude": -2.26086113108869
+      },
+      "openingTimes": [
+        {
+          "startTime": "18:30",
+          "endTime": "22:00",
+          "day": "Sunday"
+        },
+        {
+          "startTime": "18:30",
+          "endTime": "22:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "18:30",
+          "endTime": "22:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "18:30",
+          "endTime": "22:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "18:30",
+          "endTime": "22:00",
+          "day": "Thursday"
+        }
+      ],
+      "serviceProviderId": "mad-dogs-street-project",
+      "serviceProviderName": "Mad Dogs Street Project",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "General support"
+        },
+        {
+          "id": "housing",
+          "name": "Housing support"
+        },
+        {
+          "id": "benefits",
+          "name": "Benefit advice"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65c02870542339c2378dc",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals.",
+      "info": "Housing advice during key-work and drop-ins.",
+      "tags": [
+        "People living in unsupported temporary accommodation (B&amp;B&#39;s)"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "1479-1489 Ashton Old Road,",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M11 1HH",
+        "latitude": 53.4729554702876,
+        "longitude": -2.15524205867038
+      },
+      "openingTimes": [
+        {
+          "startTime": "11:00",
+          "endTime": "13:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "11:00",
+          "endTime": "13:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "justlife",
+      "serviceProviderName": "Justlife",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "General support"
+        },
+        {
+          "id": "housing",
+          "name": "Housing support"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "594bc34a9cad0a25d043710a",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/) for more information.",
+      "info": "We provide anyone with information and services whether in or out of work. We also provide advice and representation for people facing problems in a variety of fields.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "84-86 Liverpool Road",
+        "streetLine2": "Eccles ",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M30 0WZ",
+        "latitude": 53.4832949834766,
+        "longitude": -2.34962788251715
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "16:30",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "16:30",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "16:30",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "16:30",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "16:30",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "salford-ucrc",
+      "serviceProviderName": "Salford UCRC",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "employment",
+          "name": "Employment advice"
+        },
+        {
+          "id": "benefits",
+          "name": "Benefit advice"
+        },
+        {
+          "id": "legal",
+          "name": "Legal Advice"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bf4870542339c2378aa",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals.",
+      "info": "Salford Housing Options offers a free advice service delivered by Salix Homes on behalf of the city council on matters such as education, training and employment, renting from private landlords, renting from a housing association, problems with your landlord, threat of eviction, mortgage arrears, repossession and homelessness. All single persons, over the age of 18 should present to Abbott Lodge, 4 Brindleheath Road, Salford, M6 6NR",
+      "tags": [
+        "Anyone who needs housing support and advice."
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "Unity House",
+        "streetLine2": "Chorley Road",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Swinton",
+        "postcode": "M27 5AW",
+        "latitude": 53.5110529803902,
+        "longitude": -2.33970822223498
+      },
+      "openingTimes": [
+        {
+          "startTime": "08:30",
+          "endTime": "16:30",
+          "day": "Monday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "16:30",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "13:00",
+          "endTime": "16:30",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "16:30",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "16:30",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "salford-housing-options",
+      "serviceProviderName": "Salford Housing Options",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "housing",
+          "name": "Housing support"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "5900b12efaad6528e42a6f3d",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/) for more information.",
+      "info": "You can attend an open access session and breakfast club on Monday-Friday mornings, or call 0161 945 8772 for an appointment.&#10;&#10;We provide a full range of treatment and recovery interventions for people who require services for their drug or alcohol use - Assessment&#10;Brief Interventions; Prescribing; Community detoxification; Referral for in-patient detox; Drop in&rsquo;s; Informal and structured group programmes; &#10;Linking into mutual aid; One to one sessions; Education and employment support; Health assessments; Recovery services on site.",
+      "tags": [
+        "Over 18s"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "Bradnor Road",
+        "streetLine2": "Sharston Industrial Estate",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M22 4TF",
+        "latitude": 53.4005615359763,
+        "longitude": -2.25909978430467
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "20:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "20:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "20:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "12:00",
+          "day": "Saturday"
+        }
+      ],
+      "serviceProviderId": "manchester-integrated-drug-and-alcohol-service",
+      "serviceProviderName": "Manchester Integrated Drug and Alcohol Service",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "dependency",
+          "name": "Dependency support"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "58f6252afaad65207c3625eb",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/) for more information.",
+      "info": "Unlocking Potential are a floating support service and we enable people to find and maintain accommodation or move on from supported accommodation and develop independent living skills. We&rsquo;ll work with you to set small achievable goals through our innovative coaching method.  We offer engaging learning activities where you can meet new people and participate in volunteering and employment related opportunities enabling you to unlock your potential.&#10;&#10;You can either self-refer to our service or be referred by another agency who knows you.  A referral form can be found on [Tameside Council&#39;s website](http://www.tameside.gov.uk/housing/supportingpeople/floatingsupport). Telephone:  0161 339 5450",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Adullam Tameside Unlocking Potential",
+        "streetLine2": "Richmond Suite",
+        "streetLine3": "Portland House",
+        "streetLine4": "",
+        "city": "Ashton under Lyne",
+        "postcode": "OL6 7BS",
+        "latitude": 53.4868724842415,
+        "longitude": -2.10257642684842
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "adullam-homes-housing-association-limited",
+      "serviceProviderName": "Adullam Homes Housing Association Limited",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "General support"
+        },
+        {
+          "id": "housing",
+          "name": "Housing support"
+        },
+        {
+          "id": "employment",
+          "name": "Employment advice"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "58e3ae83faad65099ce9a706",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/) for more information.",
+      "info": "Bridges:&#10;We are a specialist service offering support and refuge provision for victims of domestic abuse and substance misuse. Bridges is a project managed by New Charter Homes and offers an integrated community based approach to dealing with instances of domestic abuse in whatever form it takes. This includes a Sanctuary Scheme that can offer assistance to help people remain in their own home through the installation of extra security measures if a risk of further abuse has been identified.&#10;If you are in need of a refuge place or need to speak to someone you can phone:&#10;0161 331 2552.&#10;&#10;Alternatively if you are fleeing violence you can make a homelessness application [on Tameside Housing Advice&#39;s website](http://www.newcharterhomes.co.uk/anti-social-behaviour-and-domestic-abuse/what-domestic-abuse).",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Cavendish 249",
+        "streetLine2": "Cavendish Street ",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Ashton-Under-Lyne",
+        "postcode": "OL6 7AT",
+        "latitude": 53.4900187371866,
+        "longitude": -2.10222231932369
+      },
+      "openingTimes": [
+        {
+          "startTime": "08:30",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "16:30",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "16:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "new-charter-homes-limited",
+      "serviceProviderName": "New Charter Homes Limited",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "dependency",
+          "name": "Dependency support"
+        },
+        {
+          "id": "housing",
+          "name": "Housing support"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bf3870542339c2378a3",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals.",
+      "info": "We provide mental health support to ex-service personnel for conditions including depression, alcohol and substance misuse, anger problems and post-traumatic stress disorder. Some people who have served in the armed forces say that they can experience emotional difficulties and find it hard to ask for help. This may be because of difficult experiences or simply adjusting to civilian life. Pennine Care previously delivered the service across the North West as part of a pilot and has so far helped over 1,000 veterans with a range of mental health problems. To get support call on 0300 323 0707 or you can fill out the simple online referral form from our website; https://www.penninecare.nhs.uk/your-services/military-veterans-service/",
+      "tags": [
+        "Military veterans"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "Pennine Care NHS Foundation Trust",
+        "streetLine2": "Trust Headquarters",
+        "streetLine3": "225 Old Street",
+        "streetLine4": "Ashton-under-Lyne",
+        "city": "Lancashire",
+        "postcode": "OL6 7SR",
+        "latitude": 53.4857421422934,
+        "longitude": -2.09998164069158
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "military-veterans-service",
+      "serviceProviderName": "Military Veterans\u0027 Service",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "veteran",
+          "name": "Veterans\u0027 support"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "594be4249cad0a25d04373ee",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/) for more information.",
+      "info": "Most prisons now have someone who can provide advice on housing options, and your Probation Officer should also be able to help. This can include trying to make sure you don&#39;t lose your home when you go into custody, through planning for your release.&#10;&#10;The Housing Options Team can provide advice about the options available to you after leaving prison",
+      "tags": [
+        "ex-offenders"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "Main Office",
+        "streetLine2": "1 St. Peter&#39;s Square",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Stockport",
+        "postcode": "SK1 1NZ",
+        "latitude": 53.4098235845889,
+        "longitude": -2.15950964415999
+      },
+      "openingTimes": [
+        {
+          "startTime": "08:30",
+          "endTime": "16:30",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:30",
+          "endTime": "16:30",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "16:30",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "16:30",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "16:30",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "stockport-homes",
+      "serviceProviderName": "Stockport Homes",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "housing",
+          "name": "Housing support"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "594be49f9cad0a25d0437400",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/) for more information.",
+      "info": "Living with other people can be difficult. Often people may end up being asked to leave home. The important thing is to try and do this in a planned way, and the Mediation Scheme can help, please call the Resettlement Team. The scheme works by negotiating with parents, friends or other relatives where someone has been asked to leave. It also looks at other housing options in the longer term. &#10;",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Main Office",
+        "streetLine2": "1 St. Peter&#39;s Square",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Stockport",
+        "postcode": "SK1 1NZ",
+        "latitude": 53.4098235845889,
+        "longitude": -2.15950964415999
+      },
+      "openingTimes": [
+        {
+          "startTime": "08:30",
+          "endTime": "16:30",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:30",
+          "endTime": "16:30",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "16:30",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "16:30",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "16:30",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "stockport-homes",
+      "serviceProviderName": "Stockport Homes",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "General support"
+        },
+        {
+          "id": "dependency",
+          "name": "Dependency support"
+        },
+        {
+          "id": "housing",
+          "name": "Housing support"
+        },
+        {
+          "id": "lgbt",
+          "name": "LGBT support"
+        },
+        {
+          "id": "sexwork",
+          "name": "Sex worker support"
+        },
+        {
+          "id": "asylum",
+          "name": "Asylum seeker support"
+        },
+        {
+          "id": "older-people",
+          "name": "Support for older people"
+        },
+        {
+          "id": "younger-people",
+          "name": "Support for younger people"
+        },
+        {
+          "id": "veteran",
+          "name": "Veterans\u0027 support"
+        },
+        {
+          "id": "ex-offender",
+          "name": "Ex-Offenders\u0027 support"
+        },
+        {
+          "id": "domestic-abuse",
+          "name": "Domestic Abuse"
+        },
+        {
+          "id": "refugees",
+          "name": "Refugees"
+        },
+        {
+          "id": "asylum-seekers",
+          "name": "Asylum Seekers"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "594be3079cad0a25d04373e9",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/) for more information.",
+      "info": "Alliance for Positive Relationships (APR)&#10;&#10;Healthy relationships are at the heart of leading a positive and healthy life. If you live in Stockport and are experiencing domestic abuse or other relationship problems then the Alliance for Positive Relationships (APR) is here to help.&#10;&#10;We work with:&#10;&#10;Individuals&#10;Couples&#10;Families&#10;Schools&#10;Colleges&#10;Community Groups&#10;Statutory organisations",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "1 St. Peter&#39;s Square",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Stockport",
+        "postcode": "SK1 1NZ",
+        "latitude": 53.4098235845889,
+        "longitude": -2.15950964415999
+      },
+      "openingTimes": [
+        {
+          "startTime": "00:00",
+          "endTime": "23:59",
+          "day": "Monday"
+        },
+        {
+          "startTime": "00:00",
+          "endTime": "23:59",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "00:00",
+          "endTime": "23:59",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "00:00",
+          "endTime": "23:59",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "00:00",
+          "endTime": "23:59",
+          "day": "Friday"
+        },
+        {
+          "startTime": "00:00",
+          "endTime": "23:59",
+          "day": "Saturday"
+        },
+        {
+          "startTime": "00:00",
+          "endTime": "23:59",
+          "day": "Sunday"
+        }
+      ],
+      "serviceProviderId": "stockport-homes",
+      "serviceProviderName": "Stockport Homes",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "domestic-abuse",
+          "name": "Domestic Abuse"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "58f8718bfaad65207c3668ff",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/) for more information.",
+      "info": "Spotting the signs of modern slavery, avoiding exploitation, referrals into the NRM, anti-trafficking training",
+      "tags": [
+        "All vulnerable populations and frontline workers who come into contact with them"
+      ],
+      "location": {
+        "description": "Our office addresses are confidential, but we can be reached via:&#10;0845 519 7402&#10;or info@hopeforjustice.org",
+        "streetLine1": "P.O. BOX 5527",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M22 2BQ",
+        "latitude": 53.3972365536709,
+        "longitude": -2.25873367474508
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:30",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:30",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:30",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:30",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:30",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "hope-for-justice",
+      "serviceProviderName": "Hope for Justice - Manchester",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "General support"
+        },
+        {
+          "id": "dependency",
+          "name": "Dependency support"
+        },
+        {
+          "id": "housing",
+          "name": "Housing support"
+        },
+        {
+          "id": "lgbt",
+          "name": "LGBT support"
+        },
+        {
+          "id": "sexwork",
+          "name": "Sex worker support"
+        },
+        {
+          "id": "asylum",
+          "name": "Asylum seeker support"
+        },
+        {
+          "id": "older-people",
+          "name": "Support for older people"
+        },
+        {
+          "id": "younger-people",
+          "name": "Support for younger people"
+        },
+        {
+          "id": "health",
+          "name": "Health service advice"
+        },
+        {
+          "id": "employment",
+          "name": "Employment advice"
+        },
+        {
+          "id": "benefits",
+          "name": "Benefit advice"
+        },
+        {
+          "id": "veteran",
+          "name": "Veterans\u0027 support"
+        },
+        {
+          "id": "ex-offender",
+          "name": "Ex-Offenders\u0027 support"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "57d65bea870542339c23787e",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals.",
+      "info": "The Wellspring actively engages with homeless people, providing advice and support, as well as referrals into housing or supported accommodation. The paid staff at The Wellspring have supported over 700 people into housing of some description, All of these people were sleeping rough on the streets of Stockport or Manchester at some time.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Harvey St",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Stockport",
+        "postcode": "SK1 1YD",
+        "latitude": 53.4104668720237,
+        "longitude": -2.15564588494777
+      },
+      "openingTimes": [
+        {
+          "startTime": "10:00",
+          "endTime": "14:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "17:00",
+          "endTime": "20:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "14:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "17:00",
+          "endTime": "20:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "14:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "17:00",
+          "endTime": "20:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "14:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "17:00",
+          "endTime": "20:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "14:00",
+          "day": "Friday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "14:00",
+          "day": "Saturday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "14:00",
+          "day": "Sunday"
+        }
+      ],
+      "serviceProviderId": "wellspring",
+      "serviceProviderName": "The Wellspring",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "General support"
+        },
+        {
+          "id": "housing",
+          "name": "Housing support"
+        },
+        {
+          "id": "dependency",
+          "name": "Dependency support"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "5952828bc238cb0e4cbc0a39",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/) for more information.",
+      "info": "Helpline&#10;&#10;We offer support over the telephone for women and men who need someone to listen to their experience. We offer impartial advice on safety planning, legal options, finances, safeguarding your children, housing options and immigration issues. We understand that it is often a big step to contact a helpline, and all calls will be dealt with in a sensitive and confidential manner. Our helpline takes referrals for other APR support services and professionals.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "PO Box 193",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Stockport",
+        "postcode": "SK1 3QP",
+        "latitude": 53.40756469758,
+        "longitude": -2.161561994446
+      },
+      "openingTimes": [
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Thursday"
+        }
+      ],
+      "serviceProviderId": "stockport-without-abuse",
+      "serviceProviderName": "Stockport Without Abuse",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "General support"
+        },
+        {
+          "id": "dependency",
+          "name": "Dependency support"
+        },
+        {
+          "id": "housing",
+          "name": "Housing support"
+        },
+        {
+          "id": "lgbt",
+          "name": "LGBT support"
+        },
+        {
+          "id": "sexwork",
+          "name": "Sex worker support"
+        },
+        {
+          "id": "asylum",
+          "name": "Asylum seeker support"
+        },
+        {
+          "id": "older-people",
+          "name": "Support for older people"
+        },
+        {
+          "id": "younger-people",
+          "name": "Support for younger people"
+        },
+        {
+          "id": "employment",
+          "name": "Employment advice"
+        },
+        {
+          "id": "benefits",
+          "name": "Benefit advice"
+        },
+        {
+          "id": "ex-offender",
+          "name": "Ex-Offenders\u0027 support"
+        },
+        {
+          "id": "domestic-abuse",
+          "name": "Domestic Abuse"
+        },
+        {
+          "id": "refugees",
+          "name": "Refugees"
+        },
+        {
+          "id": "asylum-seekers",
+          "name": "Asylum Seekers"
+        },
+        {
+          "id": "legal",
+          "name": "Legal Advice"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "58ee9d38faad6619400a4424",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/) for more information.",
+      "info": "Tameside Resettlement Scheme:&#10;&#10;We are a council run scheme that can help you set up a new home by providing a furniture package and we can also pay rent in advance to a private landlord if that is proving an obstacle to you getting resettled.&#10;&#10;If you are in a financial crisis and need money for essential living items such as food, clothing or for gas and electric this scheme will not provide this.&#10;&#10;Applications for help from the scheme need to be made online [via the Tameside Council&#39;s Resettlement&#39;s scheme website](http://www.tameside.gov.uk/support/independentliving).&#10;&#10;Phone: 0161 342 3465&#10;",
+      "tags": [
+        "16+",
+        "on a low income",
+        "needing help to move out of an institutional (hospital",
+        "prison",
+        "hostel) or an unsettled way of life",
+        "including homelessness"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "Tameside Housing Advice",
+        "streetLine2": "119-125 Old Street",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Ashton-under-Lyne",
+        "postcode": "OL6 7RL",
+        "latitude": 53.487660240569,
+        "longitude": -2.0956307160318
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "15:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "15:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "15:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "15:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "15:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "tameside-metropolitan-borough-council",
+      "serviceProviderName": "Tameside Metropolitan Borough Council",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "housing",
+          "name": "Housing support"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "58de339501ad0f06b8e34c9d",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/) for more information.",
+      "info": null,
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "119-125 Old Street",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Ashton &ndash;under-Lyne",
+        "postcode": "OL6 7RL",
+        "latitude": 53.487660240569,
+        "longitude": -2.0956307160318
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "15:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "15:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "15:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "15:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "15:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "tameside-housing-advice",
+      "serviceProviderName": "Tameside Housing Advice",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "housing",
+          "name": "Housing support"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "59510ea3c238cb0e4cbc03d2",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/) for more information.",
+      "info": null,
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Citizens Advice Stockport",
+        "streetLine2": "Fred Perry House",
+        "streetLine3": "Edward Street",
+        "streetLine4": "",
+        "city": "Stockport",
+        "postcode": "SK1 3XE",
+        "latitude": 53.4059778447806,
+        "longitude": -2.15848742934411
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:30",
+          "endTime": "16:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:30",
+          "endTime": "16:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:30",
+          "endTime": "16:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:30",
+          "endTime": "16:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:30",
+          "endTime": "16:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "citizens-advice-bureau-stockport",
+      "serviceProviderName": "Citizens Advice Stockport",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "General support"
+        },
+        {
+          "id": "housing",
+          "name": "Housing support"
+        },
+        {
+          "id": "health",
+          "name": "Health service advice"
+        },
+        {
+          "id": "employment",
+          "name": "Employment advice"
+        },
+        {
+          "id": "benefits",
+          "name": "Benefit advice"
+        },
+        {
+          "id": "legal",
+          "name": "Legal Advice"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "58e37869faad65099ce9825c",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/) for more information.",
+      "info": "Tameside Welfare Rights Service:&#10;We are a service delivered by the council offering impartial advice on a range benefit and tax credit entitlements. The role of the service is to provide you with information to enable you to exercise your own rights, although in some circumstances we can offer representation at appeal hearings. &#10;&#10;We have specialist Debt Advisors who can be accessed by a referral from Tameside Housing Advice.&#10;&#10;Applications for a service can be made via telephone on the freefone number - 0800 074 9985 (Monday and Wednesday 9.30-12.30pm) or [via an online form]( http://public.tameside.gov.uk/forms/f359welrights69.asp).&#10;&#10;See [our website](http://www.tameside.gov.uk/welfarerights) for further information.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Clarence Arcade",
+        "streetLine2": "Stamford Street",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Ashton-under-Lyne",
+        "postcode": "OL6 7PT",
+        "latitude": 53.4869519917336,
+        "longitude": -2.09330826177366
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:30",
+          "endTime": "12:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:30",
+          "endTime": "12:00",
+          "day": "Wednesday"
+        }
+      ],
+      "serviceProviderId": "tameside-metropolitan-borough-council",
+      "serviceProviderName": "Tameside Metropolitan Borough Council",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "benefits",
+          "name": "Benefit advice"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "58de3c6901ad0f06b8e3558c",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/) for more information.",
+      "info": "The main advice provision can be located at the council offices in Ashton whilst other advice surgeries are available in other areas of the borough and these can be found at https://www.citizensadvice.org.uk/about-us/how-we-provide-advice/advice/search-for-your-local-citizens-advice/local-citizens-advice-details/?serialnumber=100476",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Clarence Arcade",
+        "streetLine2": "Stamford Street West ",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Ashton-under-Lyne",
+        "postcode": "OL6 7PT",
+        "latitude": 53.4869519917336,
+        "longitude": -2.09330826177366
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:30",
+          "endTime": "12:30",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:30",
+          "endTime": "12:30",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:30",
+          "endTime": "12:30",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:30",
+          "endTime": "12:30",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:30",
+          "endTime": "12:30",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "tameside-citizens-advice-bureau",
+      "serviceProviderName": "Tameside Citizens Advice Bureau",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "General support"
+        },
+        {
+          "id": "housing",
+          "name": "Housing support"
+        },
+        {
+          "id": "older-people",
+          "name": "Support for older people"
+        },
+        {
+          "id": "younger-people",
+          "name": "Support for younger people"
+        },
+        {
+          "id": "health",
+          "name": "Health service advice"
+        },
+        {
+          "id": "employment",
+          "name": "Employment advice"
+        },
+        {
+          "id": "benefits",
+          "name": "Benefit advice"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "58de450f01ad0f06b8e35a4a",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/) for more information.",
+      "info": "There are therapeutic workshops provided to help people with a range of issues including promotion of good health and alcohol reduction.&#10;",
+      "tags": [
+        "Male and 35+"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "215 Mossley Road",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Ashton Under Lyne",
+        "postcode": "OL6 6LX",
+        "latitude": 53.4904108779769,
+        "longitude": -2.08339867976857
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "greystones-housing-group",
+      "serviceProviderName": "Greystones Housing Group",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "dependency",
+          "name": "Dependency support"
+        },
+        {
+          "id": "health",
+          "name": "Health service advice"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "58e3c071faad65099ce9b0b6",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/) for more information.",
+      "info": "The IMPACT Project is adjacent to the Greystones supported housing unit. &#10;&#10;The project provides a day support service where people who are sleeping rough are provided help with benefits, form filling and advice on accessing appropriate health care. &#10;",
+      "tags": [
+        "18+ and either rough sleeping or are at a severe risk of doing so"
+      ],
+      "location": {
+        "description": "Referrals to either the accommodation, day support or outreach part of the project can be made by ringing the Greystones number directly on 0161 330 1557.&#10;Greystones,&#10;215 Mossley Rd,&#10;Ashton under Lyne,&#10;OL6 6LX",
+        "streetLine1": "215 Mossley Road",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Ashton Under Lyne",
+        "postcode": "OL6 6LX",
+        "latitude": 53.4904108779769,
+        "longitude": -2.08339867976857
+      },
+      "openingTimes": [
+        {
+          "startTime": "12:30",
+          "endTime": "15:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "12:30",
+          "endTime": "15:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "12:30",
+          "endTime": "15:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "12:30",
+          "endTime": "15:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "12:30",
+          "endTime": "15:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "greystones-housing-group",
+      "serviceProviderName": "Greystones Housing Group",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "health",
+          "name": "Health service advice"
+        },
+        {
+          "id": "benefits",
+          "name": "Benefit advice"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "593fe9c89cad0a3fb837ce01",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/) for more information.",
+      "info": "Oldham Reconnect works with young people aged 16 to 25 and their families to improve communication and relationships to prevent homelessness.&#10;&#10;Please telephone: 0161 621 9433 or 07811 451648 or email oldham.reconnect@depaulcharity.org.uk for further information.",
+      "tags": [
+        "16 - 25 year olds and their families"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "Depaul UK",
+        "streetLine2": "Oldham Reconnect",
+        "streetLine3": "Positive Steps, Media Place",
+        "streetLine4": "80 Union Street",
+        "city": "Oldham",
+        "postcode": "OL1 1DJ",
+        "latitude": 53.5402744483997,
+        "longitude": -2.11047685523247
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "depaul-uk---manchester",
+      "serviceProviderName": "Depaul UK - Manchester",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "General support"
+        },
+        {
+          "id": "housing",
+          "name": "Housing support"
+        },
+        {
+          "id": "younger-people",
+          "name": "Support for younger people"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "5951bd80c238cb0e4cbc04f4",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/) for more information.",
+      "info": "Early Break is a unique service, offering a client centred approach to young people who wish to address their substance related needs. The whole service works from a person centred philosophy, meaning that the service is client led.&#10;&#10;We work in a way with our young people, and their families, so that they are empowered to make changes in their lives, we help them to make positive decisions and to become responsible for the decisions they make.&#10;&#10;",
+      "tags": [
+        "youths"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "Annara House   ",
+        "streetLine2": "7-11 Bury Road",
+        "streetLine3": "Radcliffe ",
+        "streetLine4": "",
+        "city": "Manchester",
+        "postcode": "M26 2UG",
+        "latitude": 53.5647036811355,
+        "longitude": -2.32054083318844
+      },
+      "openingTimes": [
+        {
+          "startTime": "08:00",
+          "endTime": "18:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "08:00",
+          "endTime": "18:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "08:00",
+          "endTime": "18:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "08:00",
+          "endTime": "18:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "08:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "early-break",
+      "serviceProviderName": "Early Break",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "younger-people",
+          "name": "Support for younger people"
+        },
+        {
+          "id": "health",
+          "name": "Health service advice"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "5911a4ebcbad1013344e1436",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/) for more information.",
+      "info": "We provide accommodation-based support to people across Tameside experiencing complex problems and who are at risk of social exclusion. The team offers comprehensive and intensive housing assistance to 44 clients over 8 sites including self-contained accommodation, shared facilities and Housing First.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Foundation UK Tameside",
+        "streetLine2": "Rear of Flat 3",
+        "streetLine3": "Ambleside",
+        "streetLine4": "",
+        "city": "Stalybridge",
+        "postcode": "SK15 1EB",
+        "latitude": 53.4908743595341,
+        "longitude": -2.05997787905853
+      },
+      "openingTimes": [
+        {
+          "startTime": "08:30",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "08:30",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "foundation-uk---tameside",
+      "serviceProviderName": "Foundation UK  - Tameside",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "housing",
+          "name": "Housing support"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "591c6b4bcbad100320e3dbee",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/) for more information.",
+      "info": "We host the Bury Street Pastors initiative and a number of our people are personally involved. Street Pastors are Christians from local churches, all volunteers, who are trained to help and advise those who find themselves vulnerable.&#10;Please see our [Facebook](https://www.facebook.com/StreetPastorsBury/) and [Twitter](https://twitter.com/street_pastors) pages.",
+      "tags": [],
+      "location": {
+        "description": "Bury Street Pastors are on duty in Bury town centre each Friday and Saturday from 10:00pm to 3:00am. ",
+        "streetLine1": "Bury Town Centre",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Bury",
+        "postcode": "BL9 0AD",
+        "latitude": 53.5932671188848,
+        "longitude": -2.29671974524946
+      },
+      "openingTimes": [
+        {
+          "startTime": "22:00",
+          "endTime": "03:00",
+          "day": "Friday"
+        },
+        {
+          "startTime": "22:00",
+          "endTime": "03:00",
+          "day": "Saturday"
+        }
+      ],
+      "serviceProviderId": "bury-christian-fellowship",
+      "serviceProviderName": "Bury Christian Fellowship",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "General support"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "591c6171cbad100320e3d6f0",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/) for more information.",
+      "info": null,
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Caritas Centre",
+        "streetLine2": "St Joseph&rsquo;s Presbytery",
+        "streetLine3": "Peter Street (off Walmersley Road)",
+        "streetLine4": "",
+        "city": "Bury",
+        "postcode": "BL9 6AB",
+        "latitude": 53.5973945490212,
+        "longitude": -2.28863471322934
+      },
+      "openingTimes": [
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "13:00",
+          "endTime": "16:00",
+          "day": "Thursday"
+        }
+      ],
+      "serviceProviderId": "bury-red-door",
+      "serviceProviderName": "Bury Red Door",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "General support"
+        },
+        {
+          "id": "housing",
+          "name": "Housing support"
+        },
+        {
+          "id": "benefits",
+          "name": "Benefit advice"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "5951bd9cc238cb0e4cbc04fb",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/) for more information.",
+      "info": "Early Break is a unique service, offering a client centred approach to young people who wish to address their substance related needs. The whole service works from a person centred philosophy, meaning that the service is client led.&#10;&#10;We work in a way with our young people, and their families, so that they are empowered to make changes in their lives, we help them to make positive decisions and to become responsible for the decisions they make.&#10;&#10;",
+      "tags": [
+        "youths"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "10 Water Street ",
+        "streetLine2": "off Drake Street",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Rochdale ",
+        "postcode": "OL16 1TL",
+        "latitude": 53.616205744281,
+        "longitude": -2.15292607144103
+      },
+      "openingTimes": [
+        {
+          "startTime": "08:00",
+          "endTime": "18:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "08:00",
+          "endTime": "18:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "08:00",
+          "endTime": "18:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "08:00",
+          "endTime": "18:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "08:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "early-break",
+      "serviceProviderName": "Early Break",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "younger-people",
+          "name": "Support for younger people"
+        },
+        {
+          "id": "health",
+          "name": "Health service advice"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "58a1c35a0bc3da271c69fb05",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/) for more information.",
+      "info": "STREET LIFE&#10;&#10;Our Street Life service works to access suitable accommodation for around 200 homeless people a year. The service works with some of the neediest individuals with entrenched issues including rent arrears, antisocial behaviour, substance misuse and mental health needs. Street Life operates a weekly housing drop-in alongside a NHS Nurse Practitioners clinic held twice weekly at our Urban Restore Centre.&#10;&#10;SUPPORT FIRST&#10;&#10;Working in partnership with Bolton Hospital NHS Foundation Trust, Greater Manchester West Mental Health NHS Foundation Trust, North West Ambulance Service, Greater Manchester Police and local mental health support charity BAND (Building a New Direction), Support First provides holistic, intensive community-based support to individuals and couples in Bolton who have a range of complex social and lifestyle needs which are resulting in a high demand on emergency services. Individuals may be &lsquo;frequent attenders&rsquo; at A&amp;E or may be repeatedly calling the ambulance and police services. There may be a range of issues from low level mental health needs, alcohol/drug dependency, history of offending, DV and/or anti-social behaviour, insecure/unstable accommodation or homelessness and learning difficulties.&#10;&#10;CHILDREN AND FAMILIES&#10;&#10;RUNA&#10;&#10;We work jointly with Greater Manchester Police to carry out return interviews. RUNA liaises with other organisations that can support both the individual and family in order to prevent future missing incidents.&#10;&#10;FAMILY FIRST&#10;&#10;Our Family First (Troubled Families) programme supports families and children experiencing multiple issues and exclusion.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": " Environ House",
+        "streetLine2": " Salop St",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Bolton ",
+        "postcode": "BL2 1DZ",
+        "latitude": 53.5763672540659,
+        "longitude": -2.42284193315902
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        },
+        {
+          "startTime": "20:30",
+          "endTime": "23:30",
+          "day": "Saturday"
+        },
+        {
+          "startTime": "20:30",
+          "endTime": "23:30",
+          "day": "Sunday"
+        },
+        {
+          "startTime": "20:30",
+          "endTime": "23:30",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "urban-outreach-bolton",
+      "serviceProviderName": "Urban Outreach Bolton ",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "General support"
+        },
+        {
+          "id": "dependency",
+          "name": "Dependency support"
+        },
+        {
+          "id": "housing",
+          "name": "Housing support"
+        },
+        {
+          "id": "health",
+          "name": "Health service advice"
+        },
+        {
+          "id": "employment",
+          "name": "Employment advice"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "58a1c2500bc3da271c69faf7",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/) for more information.",
+      "info": "We have three offender support programmes delivering excellent outcomes:&#10;&#10;Eve&rsquo;s Space &ndash; a women only project working with women who have received a short-term custodial sentence, or at risk of offending and those referred through the Custody Triage Programme. We provide intensive key worker support in the community and work on a range of interventions to prevent reoffending. We operate a fortnightly drop-in at HMP Styal and work with women as part of a Conditional Caution. We co-deliver the weekly Women&rsquo;s Supervision Centre in conjunction with the Community Rehabilitation Company (CRC).&#10;&#10;OARS (Offender Advice Rehabilitation and Support) &ndash; supporting homeless male offenders leaving HMP Forest Bank in the community to secure accommodation, tenancy support, life skills support and support into lifestyle change.&#10;&#10;Reach Out &ndash; offers practical and emotional support to women involved in street sex work in Bolton and helps women exit prostitution. 80% of clients demonstrated a reduction in offending behaviour, following engagement with our services.",
+      "tags": [
+        "Women who have received a short-term custodial sentence",
+        "or at risk of offending and those referred through the Custody Triage Programme. Homeless male offenders leaving HMP Forest Bank. Women involved in street sex work in Bolton"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": " Environ House, Salop St",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Bolton ",
+        "postcode": "BL2 1DZ",
+        "latitude": 53.5763672540659,
+        "longitude": -2.42284193315902
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        },
+        {
+          "startTime": "20:30",
+          "endTime": "23:30",
+          "day": "Saturday"
+        },
+        {
+          "startTime": "20:30",
+          "endTime": "23:30",
+          "day": "Sunday"
+        },
+        {
+          "startTime": "20:30",
+          "endTime": "23:30",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "urban-outreach-bolton",
+      "serviceProviderName": "Urban Outreach Bolton ",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "ex-offender",
+          "name": "Ex-Offenders\u0027 support"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "592416d509c3da1714af45e9",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/) for more information.",
+      "info": null,
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Head Office",
+        "streetLine2": "Trinity House",
+        "streetLine3": "Breightmet Street",
+        "streetLine4": "",
+        "city": "Bolton",
+        "postcode": "BL2 1BR",
+        "latitude": 53.5769731466346,
+        "longitude": -2.42434314081776
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "bolton-young-persons-housing-scheme",
+      "serviceProviderName": "Bolton Young Persons Housing Scheme",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "General support"
+        },
+        {
+          "id": "housing",
+          "name": "Housing support"
+        },
+        {
+          "id": "younger-people",
+          "name": "Support for younger people"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "59527faec238cb0e4cbc09d8",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/) for more information.",
+      "info": "Information and Support&#10;&#10;If you have problems or concerns relating to daily living, you can receive one-to-one support and guidance from the Information and Support Workers at BAND.&#10;&#10;They have developed a wide range of resources that will help you find the relevant support and guidance on:&#10;Benefits advice&#10;Volunteering&#10;Education and training&#10;Employment opportunities&#10;Housing support&#10;Counselling and other mental health support&#10; &#10;If the Information and Support Worker is unable to help you then they will do their best to find someone who can and support you to access their service.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "BAND @ Bolton",
+        "streetLine2": "YMCA 125",
+        "streetLine3": "Deansgate ",
+        "streetLine4": "",
+        "city": "Bolton ",
+        "postcode": "BL1 1HA",
+        "latitude": 53.578976052924,
+        "longitude": -2.43229245656624
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "17:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "band--building-a-new-direction",
+      "serviceProviderName": "BAND- Building A New Direction",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "General support"
+        },
+        {
+          "id": "housing",
+          "name": "Housing support"
+        },
+        {
+          "id": "health",
+          "name": "Health service advice"
+        },
+        {
+          "id": "employment",
+          "name": "Employment advice"
+        },
+        {
+          "id": "benefits",
+          "name": "Benefit advice"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "5925808f09c3da1714af710f",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/) for more information.",
+      "info": "The Independent Domestic Violence Advice Service is a personal service for high risk victims including Sexual Violence and BME specialist advocacy. It is designed to support victims / survivors whose cases are subject to the MARAC process (Multi-Agency Risk Assessment Conference). Please see [our page](http://www.pawsforkids.org.uk/idva.html) for further information.&#10;",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "26 Chorley New Road",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Bolton",
+        "postcode": "BL1 4AP",
+        "latitude": 53.5821626237588,
+        "longitude": -2.44329083150103
+      },
+      "openingTimes": [
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "paws-for-kids",
+      "serviceProviderName": "Endeavour Project (Previously Paws for Kids)",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "domestic-abuse",
+          "name": "Domestic Abuse"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "59257f5f09c3da1714af6ea4",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/) for more information.",
+      "info": "Safe Haven- Home based support for people recovering from domestic violence and abuse. Please visit [our page](http://www.pawsforkids.org.uk/safe-haven.html) for more information.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "26 Chorley New Road",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Bolton",
+        "postcode": "BL1 4AP",
+        "latitude": 53.5821626237588,
+        "longitude": -2.44329083150103
+      },
+      "openingTimes": [
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "paws-for-kids",
+      "serviceProviderName": "Endeavour Project (Previously Paws for Kids)",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "domestic-abuse",
+          "name": "Domestic Abuse"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "5925a55009c3da1a206ac888",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/) for more information.",
+      "info": "The Young Person&rsquo;s Advice Service is a personal service designed to support victims/survivors whose cases are subject to the MARAC process (Multi- Agency Risk Assessment Conference). Please visit [our page](http://www.pawsforkids.org.uk/ypa.html) for more information.&#10;&#10;&#10;see ",
+      "tags": [
+        "16 - 20 year olds"
+      ],
+      "location": {
+        "description": "",
+        "streetLine1": "26 Chorley New Road",
+        "streetLine2": "",
+        "streetLine3": "",
+        "streetLine4": "",
+        "city": "Bolton",
+        "postcode": "BL1 4AP",
+        "latitude": 53.5821626237588,
+        "longitude": -2.44329083150103
+      },
+      "openingTimes": [
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "16:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "paws-for-kids",
+      "serviceProviderName": "Endeavour Project (Previously Paws for Kids)",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "younger-people",
+          "name": "Support for younger people"
+        },
+        {
+          "id": "domestic-abuse",
+          "name": "Domestic Abuse"
+        }
+      ],
+      "isOpen247": false
+    },
+    {
+      "id": "595118e5c238cb0e4cbc0421",
+      "categoryId": "support",
+      "categoryName": "Advice",
+      "categorySynopsis": "Advice, support, and help with referrals. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/) for more information.",
+      "info": "Every local Citizens Advice is a registered charity; we rely on trained volunteers to help provide our wide range of services.&#10;&#10;The service is composed of the national membership organisation, Citizens Advice, and individual independent members of the network. We have the commitment and initiative to respond to the community needs of the local community, whilst benefitting from being part of a national network.",
+      "tags": [],
+      "location": {
+        "description": "",
+        "streetLine1": "Turnpike Centre  ",
+        "streetLine2": " Civic Square ",
+        "streetLine3": "Market Street",
+        "streetLine4": "",
+        "city": "Leigh",
+        "postcode": "WN7 1EB",
+        "latitude": 53.497775664878,
+        "longitude": -2.52002817993694
+      },
+      "openingTimes": [
+        {
+          "startTime": "09:00",
+          "endTime": "11:00",
+          "day": "Monday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "11:00",
+          "day": "Tuesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "11:00",
+          "day": "Wednesday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "11:00",
+          "day": "Thursday"
+        },
+        {
+          "startTime": "09:00",
+          "endTime": "11:00",
+          "day": "Friday"
+        }
+      ],
+      "serviceProviderId": "citizen-advice-wigan",
+      "serviceProviderName": "Citizen Advice Wigan",
+      "telephone": null,
+      "isPublished": true,
+      "subCategories": [
+        {
+          "id": "general",
+          "name": "General support"
+        },
+        {
+          "id": "dependency",
+          "name": "Dependency support"
+        },
+        {
+          "id": "housing",
+          "name": "Housing support"
+        },
+        {
+          "id": "asylum",
+          "name": "Asylum seeker support"
+        },
+        {
+          "id": "older-people",
+          "name": "Support for older people"
+        },
+        {
+          "id": "younger-people",
+          "name": "Support for younger people"
+        },
+        {
+          "id": "benefits",
+          "name": "Benefit advice"
+        },
+        {
+          "id": "veteran",
+          "name": "Veterans\u0027 support"
+        },
+        {
+          "id": "ex-offender",
+          "name": "Ex-Offenders\u0027 support"
+        },
+        {
+          "id": "domestic-abuse",
+          "name": "Domestic Abuse"
+        },
+        {
+          "id": "refugees",
+          "name": "Refugees"
+        },
+        {
+          "id": "asylum-seekers",
+          "name": "Asylum Seekers"
+        },
+        {
+          "id": "legal",
+          "name": "Legal Advice"
+        }
+      ],
+      "isOpen247": false
+    }
+  ],
+  "category": {
+    "id": "support",
+    "name": "Advice",
+    "synopsis": "Advice, support, and help with referrals. Please read our [emergency advice section](https://streetsupport.net/find-help/emergency-help/) for more information."
+  }
+}

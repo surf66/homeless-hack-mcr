@@ -1,12 +1,14 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Link } from 'react-router-dom';
 import Accommodation from './accommodation';
+import Help from './help';
 
 const RoutingComponent = () => (
   <Router>
     <div>
       <Route exact path="/" component={Menu}/>
       <Route path="/accommodation" component={Accommodation}/>
+      <Route path="/help" component={Help}/>
     </div>
   </Router>
 )

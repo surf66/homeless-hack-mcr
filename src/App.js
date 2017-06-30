@@ -1,11 +1,22 @@
-import React, { Component } from 'react';
+import React from 'react';
+import { BrowserRouter as Router, Route, Link } from 'react-router-dom';
+import Accommodation from './accommodation';
 
-class App extends Component {
-  render() {
-    return (
-      <div>app</div>
-    );
-  }
-}
+const RoutingComponent = () => (
+  <Router>
+    <div>
+      <Route exact path="/" component={Menu}/>
+      <Route path="/accommodation" component={Accommodation}/>
+    </div>
+  </Router>
+)
 
-export default App;
+const Menu = () => (
+  <div>
+    <h1>Find Help Tonight</h1>
+    <Link to="/accommodation" className="btn btn-primary btn-lg btn-block">Find accommodation</Link>
+    <Link to="/help" className="btn btn-primary btn-lg btn-block">Find help</Link>
+  </div>
+)
+
+export default RoutingComponent;

@@ -1,1 +1,1 @@
-# homeless-hack-mcr
+## Homeless Hack Manchester

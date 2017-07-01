@@ -20,6 +20,8 @@ class Accommodation extends Component {
     let days = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'];
     let today = new Date();
     let currentDay = days[today.getDay()];
+    let currentTime = today.getTime();
+    console.log(currentTime);
 
     return (
       <section>

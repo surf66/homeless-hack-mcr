@@ -17,10 +17,6 @@ const RoutingComponent = () => (
 
 const Menu = () => (
   <section>
-    <div className="jumbotron">
-      <h1 className="display-3">Find Help Tonight</h1>
-      <p>Find instant help</p>
-    </div>
     <Link to="/accommodation" className="btn btn-primary btn-lg btn-block">Find accommodation</Link>
     <Link to="/help" className="btn btn-primary btn-lg btn-block">Find help</Link>
   </section>

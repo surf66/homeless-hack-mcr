@@ -6,11 +6,64 @@
     <link rel="shortcut icon" href="%PUBLIC_URL%/favicon.ico">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="/maps/documentation/javascript/demos/demos.css">
+    <style>
+      /* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+      #map {
+        height: 100%;
+      }
+      /* Optional: Makes the sample page fill the window. */
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
     <title>React App</title>
   </head>
   <body>
     <div class="container">
       <div id="root"></div>
     </div>
+
+
+
+    <div id="map"></div>
+    <script>
+    window.initMap = initMap;
+      function initMap() {
+        var chicago = {lat: window.myLocation.lat, lng: window.myLocation.lng};
+        var indianapolis = {lat: 53.4832949834766, lng: -2.34962788251715};
+
+        var map = new google.maps.Map(document.getElementById('map'), {
+          center: chicago,
+          scrollwheel: false,
+          zoom: 7
+        });
+
+        var directionsDisplay = new google.maps.DirectionsRenderer({
+          map: map
+        });
+
+        // Set destination, origin and travel mode.
+        var request = {
+          destination: indianapolis,
+          origin: chicago,
+          travelMode: 'DRIVING'
+        };
+
+        // Pass the directions request to the directions service.
+        var directionsService = new google.maps.DirectionsService();
+        directionsService.route(request, function(response, status) {
+          if (status == 'OK') {
+            // Display the route on the map.
+            directionsDisplay.setDirections(response);
+          }
+        });
+      }
+
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyADjnzoefAkc3dMMyRS70mwq603sdAuxy0&callback=initMap"></script>
   </body>
 </html>

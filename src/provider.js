@@ -10,6 +10,8 @@ class Provider extends Component {
     this.state = {
       provider: {}
     }
+
+    this._getLocation = this._getLocation.bind(this);
   }
 
   componentDidMount() {
@@ -25,7 +27,9 @@ class Provider extends Component {
     }
 
     var provider = findId(data, providerId);
+    this._getLocation();
     this.setState({ provider: provider });
+    window.initMap();
   }
 
   render() {
@@ -39,10 +43,14 @@ class Provider extends Component {
             </button>
           </Link>
           <h1>{self.state.provider.serviceProviderName}</h1>
-          <p>{self.state.provider.info}</p>
+          <p dangerouslySetInnerHTML={{__html: self.state.provider.info}} />
         </div>
       </section>
     );
+  }
+
+  _getLocation() {
+    window.myLocation = { lat: 53.4807590, lng: -2.2426310 }
   }
 }
 

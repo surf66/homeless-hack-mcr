@@ -20,8 +20,7 @@ class Accommodation extends Component {
     let days = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'];
     let today = new Date();
     let currentDay = days[today.getDay()];
-    let currentTime = today.getTime();
-    console.log(currentTime);
+    var currentTime = [ today.getHours(), ':', today.getMinutes() ].join('');
 
     return (
       <section>
@@ -46,7 +45,11 @@ class Accommodation extends Component {
                 }
                 {provider.openingTimes.map(function(time) {
                   if(time.day == currentDay) {
-                    return <p>Opens at {time.startTime}</p>;
+                    if(time.startTime < currentTime) {
+                      return <p>Open Now // Closes tonight at {time.startTime}</p>;
+                    } else {
+                      return <p>Opens at {time.startTime}</p>
+                    }
                   }
                 })}
               </Link>

@@ -27,9 +27,14 @@ class Provider extends Component {
     }
 
     var provider = findId(data, providerId);
-    this._getLocation();
-    this.setState({ provider: provider });
-    window.initMap();
+    this.setState({ provider: provider }, () => {
+      this._getLocation();
+      window.initMap();
+    });
+  }
+
+  componentWillUnmount() {
+    window.removeMap();
   }
 
   render() {
@@ -50,7 +55,8 @@ class Provider extends Component {
   }
 
   _getLocation() {
-    window.myLocation = { lat: 53.4807590, lng: -2.2426310 }
+    window.myLocation = { lat: 53.4843011, lng: -2.2380256 };
+    window.myDest = { lat: this.state.provider.location.latitude, lng: this.state.provider.location.longitude };
   }
 }
 

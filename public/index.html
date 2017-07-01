@@ -11,7 +11,7 @@
       /* Always set the map height explicitly to define the size of the div
        * element that contains the map. */
       #map {
-        height: 100%;
+        height: 40rem;
       }
       /* Optional: Makes the sample page fill the window. */
       html, body {
@@ -31,10 +31,12 @@
 
     <div id="map"></div>
     <script>
-    window.initMap = initMap;
+      window.initMap = initMap;
+      window.removeMap = removeMap;
+
       function initMap() {
         var chicago = {lat: window.myLocation.lat, lng: window.myLocation.lng};
-        var indianapolis = {lat: 53.4832949834766, lng: -2.34962788251715};
+        var indianapolis = {lat: window.myDest.lat, lng: window.myDest.lng};
 
         var map = new google.maps.Map(document.getElementById('map'), {
           center: chicago,
@@ -63,6 +65,9 @@
         });
       }
 
+      function removeMap() {
+        document.getElementById('map').innerHTML = '';
+      }
     </script>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyADjnzoefAkc3dMMyRS70mwq603sdAuxy0&callback=initMap"></script>
   </body>

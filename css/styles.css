@@ -2,9 +2,9 @@ body {
   padding: 4rem 0 0;
 }
 
-#map {
-  display: none;
-  height: 100%;
+.logo {
+  width: 40%;
+  margin: 0 0 5rem;
 }
 
 li.list-group-item {

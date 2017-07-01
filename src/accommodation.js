@@ -17,6 +17,10 @@ class Accommodation extends Component {
   }
 
   render() {
+    let days = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'];
+    let today = new Date();
+    let currentDay = days[today.getDay()];
+
     return (
       <section>
         <div className="jumbotron">
@@ -35,6 +39,14 @@ class Accommodation extends Component {
               <Link to={`/provider/${provider.id}`}>
                 <h4>{provider.serviceProviderName}</h4>
                 <p>{provider.categorySynopsis}</p>
+                {provider.isOpen247 &&
+                  <p>Open 24/7</p>
+                }
+                {provider.openingTimes.map(function(time) {
+                  if(time.day == currentDay) {
+                    return <p>Opens at {time.startTime}</p>;
+                  }
+                })}
               </Link>
             </li>
           ))}

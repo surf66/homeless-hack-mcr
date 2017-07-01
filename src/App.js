@@ -21,13 +21,13 @@ const Menu = () => (
       <li className="list-group-item">
         <Link to={`/accommodation`}>
           <h4>Find Accommodation</h4>
-          <p>Some random p tag</p>
+          <p>Find somehwhere to stay tonight</p>
         </Link>
       </li>
       <li className="list-group-item">
         <Link to={`/help`}>
           <h4>Find Help</h4>
-          <p>Some random p tag</p>
+          <p>Talk to someone</p>
         </Link>
       </li>
     </ul>

@@ -5,8 +5,15 @@ class Help extends Component {
   render() {
     return (
       <section>
-        <Link to="/" className="btn btn-secondary btn-lg btn-block">To top menu</Link>
-        <h1>Help</h1>
+        <div className="jumbotron">
+          <Link to="/">
+            <button type="button" className="btn btn-primary">
+              <span className="glyphicon glyphicon-menu-left" aria-hidden="true"></span> Back
+            </button>
+          </Link>
+          <h1>Help</h1>
+          <p>Find help fast</p>
+        </div>
       </section>
     );
   }

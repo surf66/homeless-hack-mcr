@@ -19,23 +19,23 @@ class Accommodation extends Component {
   render() {
     return (
       <section>
-        <Link to="/" className="btn btn-secondary btn-lg btn-block">To top menu</Link>
-        <h1>Accommodation</h1>
+        <div className="jumbotron">
+          <Link to="/">
+            <button type="button" className="btn btn-primary">
+              <span className="glyphicon glyphicon-menu-left" aria-hidden="true"></span> Back
+            </button>
+          </Link>
+          <h1>Accommodation</h1>
+          <p>Find shelter near you for tonight</p>
+        </div>
 
         <ul className="list-group">
           {this.state.providers.map(provider => (
             <li className="list-group-item" key={provider.id}>
-              <div className="row">
-                <Link to={`/provider/${provider.id}`}>
-                  <div className="col-xs-7">
-                    <h4>{provider.serviceProviderName}</h4>
-                    <p>{provider.categorySynopsis}</p>
-                  </div>
-                  <div className="col-xs-5">
-                    <span className="glyphicon glyphicon-circle-arrow-right" aria-hidden="true"></span>
-                  </div>
-                </Link>
-              </div>
+              <Link to={`/provider/${provider.id}`}>
+                <h4>{provider.serviceProviderName}</h4>
+                <p>{provider.categorySynopsis}</p>
+              </Link>
             </li>
           ))}
         </ul>

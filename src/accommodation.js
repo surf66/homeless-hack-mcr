@@ -40,9 +40,6 @@ class Accommodation extends Component {
               <Link to={`/provider/${provider.id}`}>
                 <h4>{provider.serviceProviderName}</h4>
                 <p>{provider.categorySynopsis}</p>
-                {provider.isOpen247 &&
-                  <p>Open 24/7</p>
-                }
                 {provider.openingTimes.map(function(time) {
                   if(time.day == currentDay) {
                     if(time.startTime < currentTime) {

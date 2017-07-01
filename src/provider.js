@@ -30,14 +30,17 @@ class Provider extends Component {
 
   render() {
     let self = this;
-    console.log(self.state.provider.openingTimes);
     return (
       <section>
-        <Link to="/" className="btn btn-secondary btn-lg btn-block">To top menu</Link>
-        <h1>{self.state.provider.serviceProviderName}</h1>
-        <p>{self.state.provider.info}</p>
-        <p>Open 24/7: {self.state.provider.isOpen247}</p>
-        <p>Opening Times</p>
+        <div className="jumbotron">
+          <Link to="/accommodation">
+            <button type="button" className="btn btn-primary">
+              <span className="glyphicon glyphicon-menu-left" aria-hidden="true"></span> Back
+            </button>
+          </Link>
+          <h1>{self.state.provider.serviceProviderName}</h1>
+          <p>{self.state.provider.info}</p>
+        </div>
       </section>
     );
   }

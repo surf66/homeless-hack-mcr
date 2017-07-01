@@ -17,8 +17,20 @@ const RoutingComponent = () => (
 
 const Menu = () => (
   <section>
-    <Link to="/accommodation" className="btn btn-primary btn-lg btn-block">Find accommodation</Link>
-    <Link to="/help" className="btn btn-primary btn-lg btn-block">Find help</Link>
+    <ul className="list-group">
+      <li className="list-group-item">
+        <Link to={`/accommodation`}>
+          <h4>Find Accommodation</h4>
+          <p>Some random p tag</p>
+        </Link>
+      </li>
+      <li className="list-group-item">
+        <Link to={`/help`}>
+          <h4>Find Help</h4>
+          <p>Some random p tag</p>
+        </Link>
+      </li>
+    </ul>
   </section>
 )
 
